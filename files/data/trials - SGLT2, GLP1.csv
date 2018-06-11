@@ -1,0 +1,7 @@
+Study name,Year,PMID,exp_events,exp_total,control_events,control_total,Intervention,drug_class,exp_biomarker_post,exp_biomarker_pre,control_biomarker_post,control_biomarker_pre,goal_biomarker,duration,Comments
+EMPA-REG,2015,26378978,269,4687,194,2333,Empagliflozin,SGLT2 inhibitor,7.875,8.1,8.25,8.1,,3.1,Final HbA1cs are estimated
+ELIXA,2015,26630143,211,3034,223,3034,Lixisenatide,GLP-1 agonist,7.32,7.7,7.53,,,2.08,
+LEADER,2015,27295427,381,4668,447,4672,Liraglutide,GLP-1 agonist,7.54,8.7,7.93,,,3.8,
+SUSTAIN 6,2016,27633186,62,1648,60,1649,Semaglutide,GLP-1 agonist,7.45,8.7,8.3,,,2.1,
+CANVAS program,2016,28605608,100,5795,85,4347,Canagliflozin,SGLT2 inhibitor,7.73,8.2,8.17,,,2.42,Numerators estimated from Figure 3
+EXSCEL,2017,28910237,507,7356,584,7396,Exenatide,GLP-1 agonist,7.55,8.1,8.01,,,3.2,
