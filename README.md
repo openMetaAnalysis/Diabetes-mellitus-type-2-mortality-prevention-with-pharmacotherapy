@@ -1,4 +1,4 @@
-Diabetes mellitus type 2 mortality prevention with hypoglycemic agents
+Diabetes mellitus type 2 mortality prevention with pharmacotherapy
 ============================================
 A living systematic review with arrows plot
 
