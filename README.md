@@ -54,6 +54,7 @@ None
 This repository is cited by:
 
 1. WikiDoc contributors. Diabetes mellitus type 2 medical therapy. WikiDoc. June 11, 2018. Available at: https://www.wikidoc.org/index.php/Diabetes_mellitus_type_2_medical_therapy. Accessed June 11, 2018. 
+2. Badgett RG, Dong F, Aung K. Arrow plot: a display for results of meta-analyses of surrogate and clinical outcomes. BMJ 2011. Available at https://www.bmj.com/rapid-response/2011/11/03/arrow-plot-display-results-meta-analyses-surrogate-and-clinical-outcomes. Accessed June 11, 2018. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
