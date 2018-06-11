@@ -22,13 +22,13 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior s
 * [Network plots](../master/files/network) (optional)
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf)
 
-The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+The forest plot for the primary outcomes are below. Additional [forest-plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
-The arrows plot for the primary outcomes are below. Additional [arrows plots](files/arrows-plots) of secondary analyses may be available. 
+The arrows plot for the primary outcomes are below. Additional [arrows-plots](files/arrows-plots) of secondary analyses may be available. 
 ![Principle results](files/arrows-plots/Outcome-Primary.png)
 
-The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
+The meta-regression for the primary outcomes are below. Additional [metaregressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
