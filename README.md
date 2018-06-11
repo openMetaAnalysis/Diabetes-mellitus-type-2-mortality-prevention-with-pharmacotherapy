@@ -6,6 +6,8 @@ Short url: http://openMetaAnalysis.github.io/Diabetes-mellitus-type-2-mortality-
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is not* effective. Heterogeneity of results as measured by I2 was '[moderate](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 64%. This review updates the previously published meta-analysis.(1)
 
+Mortality reduction *is* shown in the subgroups of trials that used sodium glucose transporter 2 (SGLT2) inhibitors or GLP-1 receptor agonists.
+
 Acknowledgement: we acknowledge the essential work by the authors of the prior systematic review(s) listed below.
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s).(1) A comparison of studies include in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
@@ -51,7 +53,7 @@ None
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Pending content page. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
+1. WikiDoc contributors. Diabetes mellitus type 2 medical therapy. WikiDoc. June 11, 2018. Available at: https://www.wikidoc.org/index.php/Diabetes_mellitus_type_2_medical_therapy. Accessed June 11, 2018. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
