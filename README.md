@@ -38,6 +38,7 @@ References:
 #### Most recent review at time of last revision of this repository
 1. Huang CJ, Wang WT, Sung SH, Chen CH, Lip GYH, Cheng HM, Chiang CE. Blood glucose reduction by diabetic drugs with minimal hypoglycaemia risk for cardiovascular outcomes: Evidence from meta-regression analysis of randomized controlled trials. Diabetes Obes Metab. 2018 May 2. doi: [10.1111/dom.13342](http://doi.org/10.1111/dom.13342). PMID: [29722116](https://pubmed.gov/29722116)
 2. Zheng SL, Roddick AJ, Aghar-Jaffar R, Shun-Shin MJ, Francis D, Oliver N, Meeran K. Association Between Use of Sodium-Glucose Cotransporter 2 Inhibitors, Glucagon-like Peptide 1 Agonists, and Dipeptidyl Peptidase 4 Inhibitors With All-Cause Mortality in Patients With Type 2 Diabetes: A Systematic Review and Meta-analysis. JAMA. 2018 Apr 17;319(15):1580-1591. doi: [10.1001/jama.2018.3024](http://doi.org/10.1001/jama.2018.3024).  PMID:  [29677303](https://pubmed.gov/29677303)
+3. Boussageon R, Bejan-Angoulvant T, Saadatian-Elahi M,et al. Effect of intensive glucose lowering treatment on all cause mortality, cardiovascular death, and microvascular events in type 2 diabetes: meta-analysis of randomised controlled trials. BMJ. 2011 Jul 26;343:d4169. doi: [10.1136/bmj.d4169](http://doi.org/10.1136/bmj.d4169). PMID: [21791495](https://pubmed.gov/21791495)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
