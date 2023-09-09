@@ -1,6 +1,6 @@
 Diabetes mellitus type 2 mortality prevention with pharmacotherapy
 ============================================
-A living systematic review with arrows plot
+A living systematic review with [arrows plot](https://openmetaanalysis.github.io/arrows_plot)
 
 Short url: http://openMetaAnalysis.github.io/Diabetes-mellitus-type-2-mortality-prevention-with-pharmacotherapy
 
