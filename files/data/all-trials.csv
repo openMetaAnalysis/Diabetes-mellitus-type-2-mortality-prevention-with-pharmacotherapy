@@ -1,22 +1,22 @@
-Study name,Year,PMID,exp_events,exp_total,control_events,control_total,Intervention,drug_class,exp_biomarker_post,exp_biomarker_pre,control_biomarker_post,control_biomarker_pre,goal_biomarker,duration,Comments
-ACCORD,2008,18539917,257,5128,203,5123,Various,Various,6.4,8.1,7.5,8.1,,3.5,medians
-ADVANCE,2008,18539916,498,5571,533,5569,Various,Various,6.5,7.2,7.3,7.2,,5,Intervention included gliclazide
-VADT,2009,19092145,102,892,95,899,Various,TZD,6.9,9.4,8.4,9.4,,5,
-UKPDS 33,1998,9742976,489,2729,213,1138,Sulphonylureas/insulin,Various,7,7.1,7.9,7,,10,
-UKPDS 34 met vs diet,1998,9742977,50,342,89,411,Metformin,Biguanide,7.4,7.3,8,7.1,,10,met vs diet
-UKPDS 34 all rx vs diet,1998,9742977,190,1293,89,411,Various,Various,7.4,7.2,8,7.1,,10,all rx vs diet
-UKPDS 34 met added to sulphonylurea,1998,9742977,47,269,31,268,Metformin,Biguanide,7.7,7.5,8.2,7.6,,10,met added to sulphonylurea from figure 10
-PROACTIVE,2005,16214598,177,2605,186,2633,Pioglitazone,TZD,7,7.8,7.6,7.9,,2.9,
-HOME,2009,19307526,9,196,6,194,Metformin,Biguanide,7.7,7.9,7.9,7.9,,4.3,
-Dargie,2007,17448371,8,110,5,114,Rosiglitazone,TZD,7.3,7.8,8,7.8,,1,
-ORIGIN,2012,22686416,951,6264,965,6273,Insulin glargine,Insulin,6.2,6.4,6.5,6.4,,6.2,
-AleCardio,2014,24682069,148,3616,138,3610,Aleglitazar ,PPAR agonist,6.81,7.8,7.44,7.8,,2,
-SAVOR-TIMI 53,2013,23992601,420,8280,378,8212,Saxagliptin,DPP-4 inhibitor,7.7,8,7.9,8,,2.1,
-EXAMINE,2013,23992602,153,2701,173,2679,Alogliptin,DPP-4 inhibitor,7.67,8,7.97,8,,1.5,
-EMPA-REG,2015,26378978,269,4687,194,2333,Empagliflozin,SGLT2 inhibitor,7.875,8.1,8.25,8.1,,3.1,Final HbA1cs are estimated
-ELIXA,2015,26630143,211,3034,223,3034,Lixisenatide,GLP-1 agonist,7.32,7.7,7.53,,,2.08,
-TECOS,2015,26052984,547,7257,537,7266,Sitagliptin,DPP-4 inhibitor,7.09,7.2,7.37,,,3,
-LEADER,2015,27295427,381,4668,447,4672,Liraglutide,GLP-1 agonist,7.54,8.7,7.93,,,3.8,
-SUSTAIN 6,2016,27633186,62,1648,60,1649,Semaglutide,GLP-1 agonist,7.45,8.7,8.3,,,2.1,
-CANVAS program,2016,28605608,100,5795,85,4347,canagliflozin,SGLT2 inhibitor,7.73,8.2,8.17,,,2.42,Numerators estimated from Figure 3
-EXSCEL,2017,28910237,507,7356,584,7396,Exenatide,GLP-1 agonist,7.55,8.1,8.01,,,3.2,
+Study name,Year,PMID,Registration,exp_events,exp_total,control_events,control_total,exp_biomarker_post,exp_biomarker_pre,control_biomarker_post,control_biomarker_pre,goal_biomarker,duration,Intervention,drug_class,Comments
+ACCORD,2008,18539917,NCT00000620,257,5128,203,5123,6.4,8.1,7.5,8.1,,3.5,Various,Various,medians
+ADVANCE,2008,18539916,NCT00145925,498,5571,533,5569,6.5,7.2,7.3,7.2,,5,Various,Various,Intervention included gliclazide
+VADT,2009,19092145,NCT00032487,102,892,95,899,6.9,9.4,8.4,9.4,,5,Various,TZD,
+UKPDS 33,1998,9742976,NA,489,2729,213,1138,7,7.1,7.9,7,,10,Sulphonylureas/insulin,Various,
+UKPDS 34 met vs diet,1998,9742977,NA,50,342,89,411,7.4,7.3,8,7.1,,10,Metformin,Biguanide,met vs diet
+UKPDS 34 all rx vs diet,1998,9742977,NA,190,1293,89,411,7.4,7.2,8,7.1,,10,Various,Various,all rx vs diet
+UKPDS 34 met added to sulphonylurea,1998,9742977,NA,47,269,31,268,7.7,7.5,8.2,7.6,,10,Metformin,Biguanide,met added to sulphonylurea from figure 10
+PROACTIVE,2005,16214598,NCT00174993,177,2605,186,2633,7,7.8,7.6,7.9,,2.9,Pioglitazone,TZD,
+HOME,2009,19307526,NCT00375388,9,196,6,194,7.7,7.9,7.9,7.9,,4.3,Metformin,Biguanide,
+Dargie,2007,17448371,NA,8,110,5,114,7.3,7.8,8,7.8,,1,Rosiglitazone,TZD,
+ORIGIN,2012,22686416,NCT00069784,951,6264,965,6273,6.2,6.4,6.5,6.4,,6.2,Insulin glargine,Insulin,
+AleCardio,2014,24682069,NCT01042769,148,3616,138,3610,6.81,7.8,7.44,7.8,,2,Aleglitazar ,PPAR agonist,
+SAVOR-TIMI 53,2013,23992601,NCT01107886,420,8280,378,8212,7.7,8,7.9,8,,2.1,Saxagliptin,DPP-4 inhibitor,
+EXAMINE,2013,23992602,NCT00968708,153,2701,173,2679,7.67,8,7.97,8,,1.5,Alogliptin,DPP-4 inhibitor,
+EMPA-REG,2015,26378978,NCT01131676,269,4687,194,2333,7.875,8.1,8.25,8.1,,3.1,Empagliflozin,SGLT2 inhibitor,Final HbA1cs are estimated
+ELIXA,2015,26630143,NCT01147250,211,3034,223,3034,7.32,7.7,7.53,,,2.08,Lixisenatide,GLP-1 agonist,
+TECOS,2015,26052984,NCT00790205,547,7257,537,7266,7.09,7.2,7.37,,,3,Sitagliptin,DPP-4 inhibitor,
+LEADER,2015,27295427,NCT01179048,381,4668,447,4672,7.54,8.7,7.93,,,3.8,Liraglutide,GLP-1 agonist,
+SUSTAIN 6,2016,27633186,NCT01720446 ,62,1648,60,1649,7.45,8.7,8.3,,,2.1,Semaglutide,GLP-1 agonist,
+CANVAS program,2016,28605608,NCT01032629,100,5795,85,4347,7.73,8.2,8.17,,,2.42,canagliflozin,SGLT2 inhibitor,Numerators estimated from Figure 3
+EXSCEL,2017,28910237,NCT01144338,507,7356,584,7396,7.55,8.1,8.01,,,3.2,Exenatide,GLP-1 agonist,
